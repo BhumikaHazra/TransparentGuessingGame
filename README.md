@@ -43,5 +43,8 @@ All transactions are logged on the blockchain, providing full transparency.
 
 ## 🔗 Deployed Smart Contract
 
-**Contract Address:** `https://celo-sepolia.blockscout.com/address/0x65E41D336Ea4ad46c132eeA35308939693419075`  
+**Contract Address:** `https://celo-sepolia.blockscout.com/address/0x65E41D336Ea4ad46c132eeA35308939693419075` 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a76ad8a-534a-477d-a30e-de9262e9d16c" />
+
 
